@@ -1,11 +1,11 @@
 # Loan-Analysis-
 
-1)Object
+# 1)Object
 
 Create a model to predict people who showed a profile of having a high probability of paying you back.
 
 
-2)Techniques
+# 2)Techniques
 
 Jupyter Notebook is used as IDE.
 
@@ -15,7 +15,7 @@ Visualized findings via matplotlib, and seaborn.
 
 Utilized Decision Trees and Random Forest Model.
 
-3)Dataset and columns meaning
+# 3)Dataset and columns meaning
 
 [loan_data.csv](https://github.com/YANHONGLU/Loan-Analysis-/files/9952733/loan_data.csv)
 
@@ -49,16 +49,7 @@ Utilized Decision Trees and Random Forest Model.
 3) Data Exploration
 
 ![image](https://user-images.githubusercontent.com/74843963/200353470-b291912f-6e71-4cd6-9108-c56ae25dcf04.png)
-
-
 ![image](https://user-images.githubusercontent.com/74843963/200353561-fabe0001-8b06-4cd4-9228-fce10f918e59.png)
-
 ![image](https://user-images.githubusercontent.com/74843963/200353609-91d65d87-50db-41c4-86c9-e87489dc7f87.png)
-
 ![image](https://user-images.githubusercontent.com/74843963/200353676-63757078-ed8c-4009-9a94-9ce9d0c9f753.png)
-
 ![image](https://user-images.githubusercontent.com/74843963/200353714-42d3753d-5ec3-42ab-9325-d97a23279698.png)
-
-
-
-
